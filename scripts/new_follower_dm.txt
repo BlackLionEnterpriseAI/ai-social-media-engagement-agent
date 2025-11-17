@@ -1,0 +1,2 @@
+Hey {{name}}! 👋 Thanks for following us.  
+Let me know what you’re looking for — I can help answer questions or book a call.
